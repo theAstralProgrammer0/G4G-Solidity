@@ -1,2 +1,2 @@
-# Geeks For Geeks Tutorial On Programming Using Solidity
+# Geeks For Geeks Solidity Tutorial
 
